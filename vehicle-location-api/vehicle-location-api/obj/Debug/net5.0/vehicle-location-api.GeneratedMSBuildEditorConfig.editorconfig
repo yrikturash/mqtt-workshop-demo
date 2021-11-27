@@ -1,0 +1,19 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = vehicle_location_api
+build_property.ProjectDir = /Users/ytur/Documents/Projects/mqtt-realtime-demo/vehicle-location-api/vehicle-location-api/
+
+[/Users/ytur/Documents/Projects/mqtt-realtime-demo/vehicle-location-api/vehicle-location-api/protos/vehicle-location-event.proto]
+build_metadata.AdditionalFiles.ImportPaths = 
+build_metadata.AdditionalFiles.LangVersion = 
+build_metadata.AdditionalFiles.ListSet = 
+build_metadata.AdditionalFiles.Names = 
+build_metadata.AdditionalFiles.OneOf = 
+build_metadata.AdditionalFiles.Package = 
+build_metadata.AdditionalFiles.Services =
